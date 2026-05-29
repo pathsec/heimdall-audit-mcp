@@ -1,4 +1,4 @@
-# heimdall-mcp
+# heimdall-audit-mcp
 
 A Claude Code MCP server that decompiles unverified EVM smart contracts using **Heimdall-rs** and runs a comprehensive **Claude-powered security audit** on the output.
 
