@@ -98,7 +98,7 @@ claude mcp list
 
 ## Usage in Claude Code
 
-Once connected, just ask naturally — Claude Code picks the right tool automatically:
+Once connected, just ask Claude something like the following:
 
 ```
 Audit the contract at 0xdAC17F958D2ee523a2206206994597C13D831ec7
